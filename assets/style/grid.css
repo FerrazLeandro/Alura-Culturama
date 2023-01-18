@@ -1,6 +1,7 @@
 .banner {
     display: grid;
     gap: 1rem;
+    margin-top: 1rem;
 }
 
 .banner img:nth-child(1) {
@@ -101,5 +102,4 @@
     .categorias__imagem {
         grid-area: imagem;
     }
-}
 }
